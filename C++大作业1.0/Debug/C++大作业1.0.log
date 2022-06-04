@@ -1,0 +1,13 @@
+﻿  C++大作业1.0.cpp
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(847,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(847,19): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(909,14): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(909,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(910,14): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(910,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(997,14): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(997,17): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(1451,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(1660,9): warning C4101: “ch”: 未引用的局部变量
+C:\Users\lalayouyi\Desktop\C++大作业1.0\C++大作业1.0\C++大作业1.0.cpp(1822,8): warning C4101: “ch”: 未引用的局部变量
+  C++大作业1.0.vcxproj -> C:\Users\lalayouyi\Desktop\C++大作业1.0\Debug\C++大作业1.0.exe
